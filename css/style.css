@@ -1,0 +1,34 @@
+table{
+	width: 100%; /* %, px, vw, vh, em, */
+}
+td {
+	border: 1px solid #000; /* border=рамка */	
+	 /* width=ширина */
+}
+
+div{
+	border: 1px solid #000
+	margin: 10px: auto; 
+	padding: 10px: auto;
+}
+.center-block{
+	width: 50%;
+	padding: 10px 10px 10px auto;
+}
+
+.virsh{
+	width: 200px;
+	margin: 10px: auto;
+	
+
+}
+.virsh2{
+	margin-right: 0 0 0 50px auto;
+}
+.name{
+	border: 1px solid #000;
+	text-align: center;
+}
+.moomoo{
+	float: right;
+}
